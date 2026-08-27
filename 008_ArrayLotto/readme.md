@@ -14,13 +14,6 @@ Keskeiset asiat:
 - duplikaattien esto ilman valmista `Contains`-polkua (ensisijaisesti silmukalla)
 - numerot järjestykseen ennen tulostusta
 
-## Nopeat komponenttireferenssit
-
-- [Random](https://learn.microsoft.com/en-us/dotnet/api/system.random)
-- [Array.Sort](https://learn.microsoft.com/en-us/dotnet/api/system.array.sort)
-- [TextBox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.textbox)
-- [Button](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.button)
-
 ## Vaihe 1: Arvo lottonumerot
 
 - Tee lomake jolle arvot lottorivin rivin napin painalluksella.
