@@ -27,7 +27,7 @@ Keskeiset asiat:
 - `Add(...)` tai indeksointi lisäykseen
 - `TryGetValue(...)` turvalliseen hakuun ilman poikkeusta
 
-![kuva](kuvat/dictionary01.png)
+![kuva](dictionary01.png)
 
 Kuva 1. Pääformi
 
