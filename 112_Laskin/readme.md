@@ -42,9 +42,4 @@ Tee peruslaskinsovellus Windows Forms -ympäristössä. Toteuta sovellus huolell
 - Testaa jokaisen napin toiminnallisuus ja varmista, että laskin suorittaa perusaritmeettiset operaatiot oikein.
 - Tarkista mahdolliset odottamattomat toiminnot tai virheet.
 
-## Vaihe 6: Paranna käyttäjäkokemusta (valinnainen)
-
-- Harkitse näppäimistötuen lisäämistä numeroiden syöttöön ja perusoperaatioihin.
-- Kokeile värejä, fontteja ja muita visuaalisia elementtejä parantaaksesi ulkoasua.
-
 Tämä tehtävä antaa sinulle käytännön kokemusta yksinkertaisen Windows Forms -sovelluksen luomisesta, tapahtumien käsittelystä ja perusaritmeettisten operaatioiden toteuttamisesta. Hauskaa koodausta!
